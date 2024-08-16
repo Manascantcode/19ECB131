@@ -1,1 +1,9 @@
+#include <stdio.h>
 
+int main() {
+    // Write C code here
+    printf("HelloWorld\n");
+    printf("I like Peproni Pizza\n");
+
+    return 0;
+}
