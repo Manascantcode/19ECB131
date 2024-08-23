@@ -1,0 +1,20 @@
+#include <stdio.h>
+void main()
+{
+int value;
+    printf("enter your ascii value");
+    scanf("%d",&value);
+    printf("ascii letter is %c\n",value);
+    return 0;
+    
+}
+OUTPUT
+example taken == 69
+enter your ascii value 69
+ascii letter is E
+
+
+=== Code Exited With Errors ===
+
+LINK-- FOR DEMONSTRATION
+https://www.programiz.com/online-compiler/6tHUAInk1MhxD
