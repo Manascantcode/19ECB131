@@ -8,8 +8,8 @@ int main() {
     return 0;
 }
 
-OUTPUT===
+/*OUTPUT===
 HelloWorld
 I like Peproni Pizza
 
-=== Code Execution Successful ===
+=== Code Execution Successful ===*/
